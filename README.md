@@ -1,4 +1,6 @@
-## Hi there 👋
+- 👋 Hi, I’m @markolalovic.
+- 👀 I’m interested in optimization, algorithms, and applications of machine learning.
+- 📫 How to reach me: marko@lalovic.me
 
 <!--
 **markolalovic/markolalovic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
