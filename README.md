@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @markolalovic.
-- 👀 I’m interested in optimization, algorithms, and applications of machine learning.
+- 👀 I’m interested in algorithms, graphs, network dynamics, and machine learning methods.
 - 📫 How to reach me: marko@lalovic.io
 
 <!--
